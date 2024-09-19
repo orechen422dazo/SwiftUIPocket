@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B361F8F72C9CD00600037210 /* GroupBoxExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B361F8F62C9CD00600037210 /* GroupBoxExampleView.swift */; };
+		B38086E32C9B975F00E6AD76 /* GroupExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B38086E22C9B975F00E6AD76 /* GroupExampleView.swift */; };
 		C3151E172C8A684A0024C19C /* ViewAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E162C8A684A0024C19C /* ViewAlignment.swift */; };
 		C3151E192C8A6F870024C19C /* AttributeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E182C8A6F870024C19C /* AttributeView.swift */; };
 		C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */; };
@@ -31,6 +33,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B361F8F62C9CD00600037210 /* GroupBoxExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExampleView.swift; sourceTree = "<group>"; };
+		B38086E22C9B975F00E6AD76 /* GroupExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupExampleView.swift; sourceTree = "<group>"; };
 		C3151E162C8A684A0024C19C /* ViewAlignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAlignment.swift; sourceTree = "<group>"; };
 		C3151E182C8A6F870024C19C /* AttributeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttributeView.swift; sourceTree = "<group>"; };
 		C3151E1A2C8A72FA0024C19C /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
@@ -127,6 +131,8 @@
 				C3DE8BBF2C90FB5000349D40 /* ShowImageView.swift */,
 				C329079C2C925263006F7F10 /* MapShowView.swift */,
 				C3DE8BC12C90FD0600349D40 /* ImageAspectView.swift */,
+				B361F8F62C9CD00600037210 /* GroupBoxExampleView.swift */,
+				B38086E22C9B975F00E6AD76 /* GroupExampleView.swift */,
 				C329079E2C92597B006F7F10 /* CameraPositionView.swift */,
 				C3DE8BC52C910B5B00349D40 /* ScrollSnapView.swift */,
 				C3DE8BC32C91025A00349D40 /* ScrollExampleView.swift */,
@@ -204,11 +210,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B361F8F72C9CD00600037210 /* GroupBoxExampleView.swift in Sources */,
 				C3151E1B2C8A72FA0024C19C /* BackgroundView.swift in Sources */,
 				C32AB1782C8BD6210084DCF3 /* ParenView.swift in Sources */,
 				C382954F2C8FB55B001C8DB1 /* ShapesView.swift in Sources */,
 				C3DE8BC62C910B5B00349D40 /* ScrollSnapView.swift in Sources */,
 				C38295512C8FB9B3001C8DB1 /* ShapeButtonView.swift in Sources */,
+				B38086E32C9B975F00E6AD76 /* GroupExampleView.swift in Sources */,
 				C3E7A4C72C8E552A00660CBB /* ModalView.swift in Sources */,
 				C3DE8BC02C90FB5000349D40 /* ShowImageView.swift in Sources */,
 				C382954B2C8FAB24001C8DB1 /* PopverExampleView.swift in Sources */,
